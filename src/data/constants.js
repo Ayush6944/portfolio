@@ -3,6 +3,8 @@ import product from '../images/productdesigner.png'
 import pass from '../images/password.png'
 import resume from '../images/resume.png'
 import todo from '../images/todo.png'
+import baat-chiit from '../images/baat-chiit.png'
+
 import togood from '../images/togood.png'
 import { WhatsApp } from '@mui/icons-material'
 
@@ -266,6 +268,19 @@ export const Bio = {
   export const projects = [
   
     {
+      id: 10,
+      title: "Online Chat Application (Baat-Chiit)",
+      date: "Apr 2024 - june 2024",
+      description:
+        "Developed a full-stack web  chat application that allows users to chat and send endless data .",
+      image :  baat-chiit ,
+           tags: ["React Js", "MongoDb", "Node Js", "Express Js","Socket.io" , "Cloudinary"],
+      category: "Chat app",
+      github: "https://github.com/Ayush6944/chatapp-frontend.git",
+      webapp: "https://client-tawny-chi.vercel.app/",
+    
+    },
+      {
       id: 0,
       title: "E-commerece (BUYKART)",
       date: "Apr 2023 - May 2023",
