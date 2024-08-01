@@ -3,7 +3,7 @@ import product from '../images/productdesigner.png'
 import pass from '../images/password.png'
 import resume from '../images/resume.png'
 import todo from '../images/todo.png'
-import baat-chiit from '../images/baat-chiit.png'
+import baat from '../images/baat.png'
 
 import togood from '../images/togood.png'
 import { WhatsApp } from '@mui/icons-material'
@@ -273,7 +273,7 @@ export const Bio = {
       date: "Apr 2024 - june 2024",
       description:
         "Developed a full-stack web  chat application that allows users to chat and send endless data .",
-      image :  baat-chiit ,
+      image :  baat ,
            tags: ["React Js", "MongoDb", "Node Js", "Express Js","Socket.io" , "Cloudinary"],
       category: "Chat app",
       github: "https://github.com/Ayush6944/chatapp-frontend.git",
